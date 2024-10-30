@@ -1,0 +1,56 @@
+ol {
+  margin: 0px !important;
+  margin-left: 1em !important;
+}
+
+li {
+  margin-bottom: 0px;
+}
+
+.admin-notice__container {
+  padding: 20px;
+  margin: 0px !important;
+}
+
+.admin-notice__title {
+  padding: 0px;
+  margin: 0px;
+  margin-bottom: 8px;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.admin-notice__text {
+  margin: 0px !important;
+  padding: 0px !important;
+  margin-bottom: 16px !important;
+}
+
+.how-to-use-section__title {
+  padding: 0px !important;
+  margin-top: 20px !important;
+  margin-bottom: 10px !important;
+  font-size: 20px !important;
+}
+
+.button-outline-primary {
+  background-color: transparent !important;
+}
+
+.form-table {
+  display: none;
+}
+
+form > h2 {
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 10px !important;
+}
+
+a {
+  font-weight: 700;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
